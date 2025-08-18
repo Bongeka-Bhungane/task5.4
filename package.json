@@ -1,0 +1,25 @@
+{
+  "name": "task5.4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "convertor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bongeka-Bhungane/task5.4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Bongeka-Bhungane/task5.4/issues"
+  },
+  "homepage": "https://github.com/Bongeka-Bhungane/task5.4#readme",
+  "dependencies": {
+    "fractional": "^1.0.0",
+    "sqlite": "^5.1.1"
+  }
+}
