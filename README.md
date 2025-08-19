@@ -1,4 +1,7 @@
  # task5.4
+
+ <img src="https://socialify.git.ci/Bongeka-Bhungane/task5.4/image?language=1&name=1&owner=1&stargazers=1&theme=Dark" alt="task5.4" width="640" height="320" />
+ 
 # Converter CLI
 
 This is a simple Node.js command-line tool that performs common conversions:
